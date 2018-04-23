@@ -28,7 +28,3 @@ Por ello nos hemos puesto en contacto con un diseñador y nos han pasado el sigu
     *Minificar js
     *Minificar css
     *Debe levantarnos un servidor local.
----
-### Fecha de Entrega.
-> La fecha tope de entrega: 12 de Marzo de 2018
-> Debe estar subido en los repositorios de los usuarios.
